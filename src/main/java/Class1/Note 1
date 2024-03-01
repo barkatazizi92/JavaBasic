@@ -1,0 +1,5 @@
+What is intelli?  It is piece of software that we will be using to write java code.
+What is Java?  It is a programming language that we use to create program and communicate with our computer
+Variable rules: We can not use the same name for two or more variable inside of the same class.
+Single Line comment: for single line comment we use two slash at the beginning of the sentence.
+multiple line comment: we use slash and star, /* and then hit enter.
