@@ -11,7 +11,6 @@ Output:
 **_______ modded by _______ is ______**
   result2           result1    blank3
      */
-
     public static void main(String[] args) {
         int num1 = 24;
         int num2 = 22;
@@ -20,8 +19,10 @@ Output:
         int num5 = 3;
         int num6 = 4;
 
-        int result1 = (num1+num2-num3);
-        int result2 = (num4*num5/num6);
+        int result1 = num1+num2-num3;
+        int result2 = num4*num5/num6;
+        int blank3 = result1%result2;
+        System.out.println( result2 + " modded by "+ result1+ " is " + blank3);
 
     }
 }

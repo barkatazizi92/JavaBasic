@@ -8,9 +8,9 @@ public class E5ArithmeticOperator {
         int result = num1+num2;
         System.out.println(result);
 
-        int number1 = 50;
-        int number2 = 450;
-        int bothNumber = number1+num2;
+        int number3 = 50;
+        int number4 = 450;
+        int bothNumber = number3*number4;
         System.out.println(bothNumber);
 
     }
