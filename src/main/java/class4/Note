@@ -1,0 +1,7 @@
+we use if statement: to check one condition and one action
+2: we use if else: to check two condition and two action
+3: we use if else if: to check one data against multiple condition and action.
+4:With String data type we use equals(). with integer : we use ==dataType
+: the usage of comparing equal in string and int.
+5: formula of how to find even number and odd number: if any number divided by 2 == 0
+it is even number. if the number divided by 2 has a reminder is odd number. if (number %2==0)

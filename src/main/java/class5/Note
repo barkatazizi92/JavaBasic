@@ -1,0 +1,14 @@
+For calling the String Data type in scanner class: if we use another data type before
+string data type the computer will not wait to enter string value in the console.
+If we want to make the computer wait for our String data type value we should write
+the scanner.nextline(); twice.
+String fullName=scanner.nextline();
+Or we can create two full Scanner class. scanner s1 = new scanner(system.in)
+                                          Scanner s2 = new Scanner(system.in)
+
+switch case: it is faster then if else if statement. because with if statement
+the computer check all the condition one by one but with switch case the computer
+directly check the condition which is true.
+Note: we can not use logical operator or relational operator with switch case.
+also we can not use double, long and boolean data type.
+switch case only check for equality.
