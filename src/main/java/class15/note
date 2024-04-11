@@ -1,0 +1,3 @@
+Default vs public: when the class is public the data is accessible everywhere inside the package and
+outside the package. when class is default it is accessible only inside the same package not outside
+the package.

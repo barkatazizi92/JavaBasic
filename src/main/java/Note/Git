@@ -1,0 +1,15 @@
+if we have a code 2+4=6. and we want to update our code 2+3=5 and now some one want to ask our previous version of code
+      we will not have the previous version of the code and it will cause a problem. to solve this problem we need to use git
+      to save different versions of the code.
+1: we need to navigate our terminal to the location of the project in order to make a backup of it.
+2: What is git: it is a version control system that saves different version of the code on local repository.
+3: How to navigate the terminal to the location of the project?
+    A: write : pwd to check where is your terminal? and it print the work directory.
+    B: cd ------- navigate to the location we want. cd means send to.
+    C: ls------ tell us which folder are you seeing in front of you?
+    D: cd .. ------ move one step back.
+1:Nest step: Track ---> create a backup: decide the location of repository. for backup the code from our project
+    we should create a repository inside the same project. fro example if I have javaBasic project and want to create
+    a backup repository, I should create my backup repository inside the javaBasic .
+2: Navigate out terminal to the location where we want to create the repository.
+3: To create a local repository we use this command----> git init---> initialize empty git repository.
