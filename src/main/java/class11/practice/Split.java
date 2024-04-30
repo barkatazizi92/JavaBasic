@@ -7,5 +7,6 @@ public class Split {
         String [] boy=goodBoy.split(" ");
         System.out.println(boy.length);
         System.out.println(boy[2]);
+
     }
 }

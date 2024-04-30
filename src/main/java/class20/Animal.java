@@ -5,13 +5,9 @@ public abstract class Animal {
     public abstract void sleep();
 
 
-    public void eas() {
-        System.out.println("Eat well");
-    }
+    public abstract void eas();
 
-    public void speak() {
-        System.out.println("no one can understand");
-    }
+    public abstract void speak();
 }
 
 class Dog extends Animal {

@@ -6,7 +6,5 @@ public class Task1 {
         String st = "This is sentence i want to reverse";
         String [] array = st.split("[ ]");
 
-
-
     }
 }
